@@ -1,0 +1,7 @@
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\bin\Debug\buoi 6_cautrulap2.exe.config
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\bin\Debug\buoi 6_cautrulap2.exe
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\bin\Debug\buoi 6_cautrulap2.pdb
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\obj\Debug\buoi 6_cautrulap2.csproj.AssemblyReference.cache
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\obj\Debug\buoi 6_cautrulap2.csproj.CoreCompileInputs.cache
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\obj\Debug\buoi 6_cautrulap2.exe
+C:\Users\VU DINH SOAI\source\repos\buoi1\buoi 6_cautrulap2\obj\Debug\buoi 6_cautrulap2.pdb
